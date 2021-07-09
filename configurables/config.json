@@ -3,51 +3,44 @@
 		"first": "cameron",
 		"last": "stiller",
 		"title": "innovation engineer",
-		"image": "img/Cameron Stiller.jpg",
+		"image": "https://raw.githubusercontent.com/camstillhere/Resume-Resources/main/img/Cameron%20Stiller.jpg",
 		"contact": {
 			"email": [
 				{
 					"content": "cameron.stiller@gmail.com",
-					"title": "cameron.stiller@gmail.com",
-					"reveal": false
+					"title": "cameron.stiller@gmail.com"
 				}
 			],
 			"linkedIn": [
 				{
 					"content": "https://www.linkedin.com/in/cameronstiller/",
-					"title": "linkedin.com/in/cameronstiller/",
-					"reveal": true
+					"title": "linkedin.com/in/cameronstiller/"
 				}
 			],
 			"phone": [
 				{
 					"content": "04 0555 2385",
-					"title": "04 0555 2385",
-					"reveal": false
+					"title": "04 0555 2385"
 				}
 			],
 			"github": [
 				{
 					"content": "https://github.com/camstillhere",
-					"title": "github.com/camstillhere",
-					"reveal": true
+					"title": "github.com/camstillhere"
 				}
 			],
 			"website": [
 				{
 					"content": "https://camstillhere.github.io/",
-					"title": "https://camstillhere.github.io/",
-					"reveal": true
+					"title": "https://camstillhere.github.io/"
 				},
 				{
 					"content": "https://www.nuix.com/blog/getting-started-scripting-nuix-engine-part-1",
-					"title": "Nuix Blog - Getting started with Scripting, part 1",
-					"reveal": true
+					"title": "Nuix Blog - Getting started with Scripting, part 1"
 				},
 				{
 					"content": "https://www.nuix.com/blog/getting-started-scripting-nuix-engine-part-2",
-					"title": "Nuix Blog - Getting started with Scripting, part 2",
-					"reveal": true
+					"title": "Nuix Blog - Getting started with Scripting, part 2"
 				}
 			]
 		}
@@ -88,9 +81,6 @@
 						"Received a 'Magical Moment Award' for being a key member in the smooth and successful relocation of infrastructure and staff from multiple child offices to a new central CBD office.",
 						"Designed and created a ‘roaming’ office kit for the theatrical team complete with VPN, VOIP Phones, computers, and printers, training the staff to be able to complete the installation in any theatre they may be performing. This has been life changing for this team, being able to now access company resources with ease, as well as having a permanent phone numbers regardless of actual location. Generating an opportunity to repurpose advertisement material from site to site and directly reducing the business expenditure",
 						"Invited to speak as part of the Regional IT conference in Hong Kong in 2014 in front of the CIO of Disney. Topics the presentation covered was Automation and Operational Efficiencies."
-					],
-					"media": [
-						"/img/pic1"
 					]
 				}
 			]
@@ -117,9 +107,6 @@
 					"achievements": [
 						"Participated in an office relocation of a medium sized business from North Sydney to Town hall. Providing support and ensuring all transitions are done with a quality of care and within the guidelines specified by the business. This resulted in a bonus being paid to Rider Technology for the excellence of service being provided.",
 						"Creating a SOE and managing them for multiple clients saving time and money for the onsite technicians."
-					],
-					"media": [
-						"/img/pic1"
 					]
 				},
 				{
@@ -136,10 +123,7 @@
 						"This could be as simple as a loose fan or as advanced as creating or using bulk roll-outs for use in a production environment. At times I have also been requested to make assessments on data recovery options: In some cases restoring that data/machine to its original state upon request."
 					],
 					"responsibilities": [],
-					"achievements": [],
-					"media": [
-						"/img/pic1"
-					]
+					"achievements": []
 				}
 			]
 		},
@@ -167,9 +151,6 @@
 						"Called upon twice by personal request of the Group CEO for priority engagements. These engagements were fulfilled ahead of schedule and with only positive feedback received.",
 						"Generated the new Developer Training content which covers the scripting api, BPMN, Java, ECC, Discover, Adaptive and more. This content has been widely praised and recommended by students and internals alike with the onboarding process for development now considering including it also.",
 						"Provided regular, tailored, and thorough orientations for members across the business from board members to technical staff. All technical staff in the APACJ region have at some point had training with Cameron."
-					],
-					"media": [
-						"/img/pic1"
 					]
 				},
 				{
@@ -195,9 +176,6 @@
 						"A trusted member of the development groups, often participating in testing, triage and improvement or feature requests.",
 						"Exposure to many language sets based on the customers dealt with. To list some popular ones: Java, JRuby (Java Ruby), .Net, Jython (Java Python), ECMA. The role requires a constant adaptability to a customer’s environment with an expectation to live in a language, library, and API agnostic world where there is no expectation that an environment will be the same for the next encounter.",
 						"Found security issues in our product lines potentially saving public reputation and ensuring circumvention of our licensing model was no longer possible."
-					],
-					"media": [
-						"/img/pic1"
 					]
 				},
 				{
@@ -219,9 +197,6 @@
 						"In 2016 Cameron was recognized for his aptitude and asked to train a new team of technical services based in Ireland.",
 						"With a staff member leaving from the Solutions Consultants team a project was being abandoned, with much potential cost to our business. Cameron was the natural choice to assist with this project and it delivered on schedule. This project involves a large migration platform scripting from one source to a new repository, discarding duplicates and optimizing the result.",
 						"Cameron has received awards for Innovation as well as awards for Customer Service."
-					],
-					"media": [
-						"/img/pic1"
 					]
 				}
 			]
@@ -239,10 +214,7 @@
 						"This role was intended to be only helpdesk with basic client support. In the time at CCLI he extended those responsibilities to Website Maintenance, Server Maintenance, Testing, help desk, customer support and creating their new CRM and licensing databases and tools. Towards the end of my stay with CCLI he received an offer for employment which he negotiated so that the CRM could be live and fully supported before he exited the business."
 					],
 					"responsibilities": [],
-					"achievements": [],
-					"media": [
-						"/img/pic1"
-					]
+					"achievements": []
 				}
 			]
 		},
@@ -259,10 +231,7 @@
 						"A well-versed role in computer and network maintenance. This was largely focused on individual home machines/networks, although gained a large amount of experience configuring and installation of small business networks from scratch. This job covered: hardware examination and fault detection, web design and advice, virus removal, network, data recovery, performance advice, firewalls and VPN solutions and many other fields."
 					],
 					"responsibilities": [],
-					"achievements": [],
-					"media": [
-						"/img/pic1"
-					]
+					"achievements": []
 				}
 			]
 		}
@@ -281,9 +250,6 @@
 					"blurb": [
 						"Advanced class utilizing workflows that specialize in QC/ECA, culling, searching, deduplication, email threading, near deduplication, and legal export.",
 						"For those administering Nuix Workstation, this class will focus on configuring, licensing, optimizing, back-up, troubleshooting and more."
-					],
-					"media": [
-						"/img/pic1"
 					]
 				},
 				{
@@ -298,9 +264,6 @@
 						"Learn to analyze the disparate datatypes loaded into Nuix Investigate. Understand the searching capabilities available at your fingertips, from navigating the various filters to using the Query Builder.",
 						"For Investigators new to Nuix Workstation, learn details to configure, process, and begin to develop workflows, to ingest artifacts into a Nuix case structure, while learning the standard views and tools available.",
 						"Investigators will learn best practices and fully develop workflows from processing to analysis and exporting.  Learn built-in features often overlooked within Nuix Workstation to better facilitate your investigation."
-					],
-					"media": [
-						"/img/pic1"
 					]
 				},
 				{
@@ -319,9 +282,6 @@
 						"Enterprise Collection Center (ECC): Collections and managing endpoints",
 						"Adaptive Security: Building solutions for and with the platform including rules",
 						"Discover (Formally Ringtail): GraphQL and Extensions (plugins)"
-					],
-					"media": [
-						"/img/pic1"
 					]
 				},
 				{
@@ -333,9 +293,6 @@
 					},
 					"blurb": [
 						"Nuix Hack It and Track It is a course designed for penetration testers and forensic investigators. Experts from Nuix’s Cyber Threat Analysis Team will cover cutting-edge techniques for compromising a target and then forensically investigating that breach."
-					],
-					"media": [
-						"/img/pic1"
 					]
 				}
 			]
@@ -354,9 +311,6 @@
 						"Software engineering, networked systems management and administration, systems programming, IT systems security and computer forensics, as well as application development.",
 						"http://handbook.uws.edu.au/hbook/course.aspx?course=3506.3",
 						"Completed with a GPA 5.190"
-					],
-					"media": [
-						"/img/pic1"
 					]
 				}
 			]
@@ -373,9 +327,6 @@
 					},
 					"blurb": [
 						"This course was designed to provide a large amount of network support. Including server to client relations, administration, network protocols and hardware support. It also covers many other fields. Voluntary units taken were focusing on the VB language and Web Design"
-					],
-					"media": [
-						"/img/pic1"
 					]
 				}
 			]
@@ -393,9 +344,6 @@
 					"blurb": [
 						"This course is designed to look into and address general management and client interactions. Some of the topics include support, operations, safety and organisation techniques.",
 						"This was done as part of a traineeship, including assigments and assessments"
-					],
-					"media": [
-						"/img/pic1"
 					]
 				}
 			]
@@ -410,10 +358,7 @@
 						"start": "2013-02-01",
 						"end": "2013-02-01"
 					},
-					"blurb": [],
-					"media": [
-						"/img/pic1"
-					]
+					"blurb": []
 				},
 				{
 					"qualification": "Certificate",
@@ -425,9 +370,6 @@
 					"blurb": [
 						"The Foundation Level is the entry level qualification which offers candidates a general awareness of the key elements, concepts and terminology used in the ITIL Service Lifecycle, including the linkages between Lifecycle stages, the processes used and their contribution to Service Management practices.",
 						"http://www.itil-officialsite.com"
-					],
-					"media": [
-						"/img/pic1"
 					]
 				}
 			]
@@ -540,14 +482,14 @@
 				"Computer Troubleshooters is the world’s largest computer and technology services franchise network. We offer high-quality, affordable computer repair and troubleshooting services, plus a range of business IT services including data backup and recovery, security services, remote support services, and managed services."
 			],
 			"link": "https://www.technology-solved.com/",
-			"icon": "img/computerTroubleshooters.png"
+			"icon": "https://raw.githubusercontent.com/camstillhere/Resume-Resources/main/img/computerTroubleshooters.png"
 		},
 		"CCLI": {
 			"blurb": [
 				"Christian Copyright Licensing International provides information and resources for churches and copyright owners around the world, relating to copyrights of Christian worship songs."
 			],
 			"link": "https://au.ccli.com",
-			"icon": "img/ccli.jpg"
+			"icon": "https://raw.githubusercontent.com/camstillhere/Resume-Resources/main/img/ccli.jpg"
 		},
 		"The Walt Disney Company": {
 			"blurb": [
@@ -555,49 +497,49 @@
 				"The mission of The Walt Disney Company is to entertain, inform and inspire people around the globe through the power of unparalleled storytelling, reflecting the iconic brands, creative minds and innovative technologies that make ours the world’s premier entertainment company."
 			],
 			"link": "https://thewaltdisneycompany.com/",
-			"icon": "img/disney.jpg"
+			"icon": "https://raw.githubusercontent.com/camstillhere/Resume-Resources/main/img/disney.jpg"
 		},
 		"Nuix": {
 			"blurb": [
 				"Nuix specializes in transforming massive amounts of messy data—from emails, social media, communications, and other human-generated content—into searchable, contextualized information. At the heart of our software is the Nuix Engine, a supercharged data processing technology that gets to the ones and zeros of more than 1,000 data types and file formats with forensic accuracy."
 			],
 			"link": "https://www.nuix.com/",
-			"icon": "img/nuix.jpg"
+			"icon": "https://raw.githubusercontent.com/camstillhere/Resume-Resources/main/img/nuix.jpg"
 		},
 		"Rider Technology": {
 			"blurb": [
 				"Owned by Greg Knight, click to see more of the work this business does"
 			],
 			"link": "https://www.linkedin.com/in/greg-knight-665121",
-			"icon": "img/RiderTechnology.gif"
+			"icon": "https://raw.githubusercontent.com/camstillhere/Resume-Resources/main/img/RiderTechnology.gif"
 		},
 		"Western Sydney University": {
 			"blurb": [
 				"Located in the heart of one of Australia’s fastest growing economic regions, Western Sydney University offers unlimited potential to students with the talent, drive and ambition to succeed. Ranked amongst the top two per cent of universities in the world, we value academic excellence, integrity and the pursuit of knowledge. "
 			],
 			"link": "https://www.westernsydney.edu.au/",
-			"icon": "img/uws.jpg"
+			"icon": "https://raw.githubusercontent.com/camstillhere/Resume-Resources/main/img/uws.jpg"
 		},
 		"Australian Careers Business College": {
 			"blurb": [
 				"Australian Careers Business College (ACBC) combines training in the classroom and hands on work experience. We train in 8 highly demanded courses specialising in educating and preparing students for rewarding futures."
 			],
 			"link": "https://www.westernsydney.edu.au/",
-			"icon": "img/acbc.jpg"
+			"icon": "https://raw.githubusercontent.com/camstillhere/Resume-Resources/main/img/acbc.jpg"
 		},
 		"TAFE": {
 			"blurb": [
 				"Commissioner of Vocational Training (Apprenticeship and Traineeship Act, 2001)"
 			],
 			"link": "https://www.westernsydney.edu.au/",
-			"icon": "img/tafe.jpg"
+			"icon": "https://raw.githubusercontent.com/camstillhere/Resume-Resources/main/img/tafe.jpg"
 		},
 		"Dimension Data Learning Solutions": {
 			"blurb": [
 				"DDLS - Leading Corporate Training And Certification Provider With Over 600 Courses. Awarded By The World's leading Vendors As Preferred Training Partner. Gold Microsoft Partner. Train With The Best. #1 Cybersecurity Training. 30 Years Experience"
 			],
 			"link": "https://www.westernsydney.edu.au/https://www.ddls.com.au/",
-			"icon": "img/ddls.png"
+			"icon": "https://raw.githubusercontent.com/camstillhere/Resume-Resources/main/img/ddls.png"
 		}
 	}
 }
