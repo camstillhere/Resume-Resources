@@ -2,7 +2,7 @@
 	"bio": {
 		"first": "cameron",
 		"last": "stiller",
-		"title": "innovation engineer",
+		"title": "Senior Innovation Engineer",
 		"image": "https://raw.githubusercontent.com/camstillhere/Resume-Resources/main/img/Cameron%20Stiller.jpg",
 		"contact": {
 			"email": [
@@ -131,10 +131,22 @@
 			"organisation": "Nuix",
 			"positions": [
 				{
+					"title": "Senior Innovation Engineer/Integration and Development Partner Liason",
+					"span": {
+						"start": "2021-06-01",
+						"end": null
+					},
+					"blurb": [
+						"Recognising his ongoing contributions Cameron was promoted to Senior Innovation Engineer."
+					],
+					"responsibilities": [],
+					"achievements": []
+				},
+				{
 					"title": "Innovation Engineer/Integration and Development Partner Liason",
 					"span": {
 						"start": "2019-11-01",
-						"end": null
+						"end": "2021-06-01"
 					},
 					"blurb": [
 						"The Nuix Innovation Team collaborates across the organisation to help identify, prototype, qualify and channel new ideas into the product. Cameron works closely with customers, partners, and internal stakeholders to ensure Nuix technology continues to help solve evolving challenges.",
