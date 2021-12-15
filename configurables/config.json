@@ -2,7 +2,7 @@
 	"bio": {
 		"first": "cameron",
 		"last": "stiller",
-		"title": "Senior Innovation Engineer",
+		"title": "Technical Solutions Architect",
 		"image": "https://raw.githubusercontent.com/camstillhere/Resume-Resources/main/img/Cameron%20Stiller.jpg",
 		"contact": {
 			"email": [
@@ -131,10 +131,42 @@
 			"organisation": "Nuix",
 			"positions": [
 				{
+					"title": "Technical Solutions Architect (GRC)",
+					"span": {
+						"start": "2021-12-06",
+						"end": null
+					},
+					"blurb": [
+						"Reporting to the EVP, Governance, Risk & Compliance this role will work closely with the Nuix sales team in both a pre and post sales technical capacity to provide custom solutions to help customers with their needs and requirements. You will also work alongside product management to help share your knowledge and expertise with development to help shape our solutions.",
+						"The role will proactively assess the business and technical needs of our current and prospective customers, decipher Nuix’s solution fit and possess the skills to articulate and demonstrate the compelling value of the Nuix platform. This role will work with Solutions Consultants for all technical activities involved in the sales cycle and requires a proactive can-do attitude, ability to create and deliver compelling presentations and works well both independently and in conjunction with other teammates and departments"
+					],
+					"responsibilities": [
+						"Working with the sales team on pre/post sales technical activities relating to new and existing clients",
+						"Play a key role in identifying and pursuing leads, converting the leads to opportunities,planning, owning, and executing a technical win",
+						"Build appropriate demonstration environments and help Solution Consultants with demonstrations, whilst also being required to conduct demonstrations yourself.",
+						"Evaluate the validity of Nuix’s success to deliver customer needs and requirements",
+						"Building productive long-lasting customer relationships",
+						"Establish strong credibility with new and existing clients as the trusted GRC architect and able to remain confident in technically challenging discussions",
+						"Position, demonstrate, conduct, own and drive proof of value/concepts, own technical needs and assist in driving opportunities to closure",
+						"Research competition and be able to develop an understanding of the applicability of the Nuix offering to business use case scenarios",
+						"Build and own collateral (presentations, templates, and related documents) pertinent to the success of proof of value/concepts and pre-sales activities",
+						"Learn, master and keep improving upon your technical competence across the comprehensive Nuix offering",
+						"Responsible for successful post-sales implementation, through effective coordination with Internal teams, stakeholders and partners",
+						"Responsible for the creation and validation of services quotes, scope of works, and any other technical information or drawings necessary to close new opportunities and solidify opportunities",
+						"Conduct solution demonstrations for prospective clients: onsite, at industry specific events, or via teleconference",
+						"Educate existing and prospective clients on Nuix offerings and solutions. Help develop new business opportunities with existing clients when needed.",
+						"Take ownership of overall client satisfaction, maximising renewal and retention rates",
+						"Learn and maintain expert knowledge of Nuix product stack and workflows",
+						"Generate presentations, project plans, and other technical and workflow summary documentation as needed",
+						"Bridge the gap between technical and non-technical stakeholders. Be the catalyst to mesh business and technical requirements into actionable outcomes"
+					],
+					"achievements": []
+				},
+				{
 					"title": "Senior Innovation Engineer/Integration and Development Partner Liason",
 					"span": {
 						"start": "2021-06-01",
-						"end": null
+						"end": "2021-12-05"
 					},
 					"blurb": [
 						"Recognising his ongoing contributions Cameron was promoted to Senior Innovation Engineer."
