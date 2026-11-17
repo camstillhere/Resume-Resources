@@ -478,7 +478,9 @@
 				"organisation": "Nuix",
 				"date": "2021-05-04"
 			},
-			"blurb": "You have done an amazing job at creating training content for the new developer training offering. The support that he has provided the learning and development team has been tremendous. His willingness to jump on calls and provide information has made this offering that much better for our clients. Thanks for being an amazing team player! It’s been awesome working with you on this project."
+			"blurb": "You have done an amazing job at creating training content for the new developer training offering. The support that he has provided the learning and development team has been tremendous. His willingness to jump on calls and provide information has made this offering that much better for our clients. Thanks for being an amazing team player! It’s been awesome working with you on this project.",
+			"featured": true,
+			"excerpt": "His willingness to jump on calls and provide information has made this offering that much better for our clients."
 		},
 		{
 			"author": {
@@ -487,7 +489,9 @@
 				"organisation": "Nuix",
 				"date": "2020-02-08"
 			},
-			"blurb": "Cameron's ability to overcome difficult technical challenges is what made him a great asset in the support team. While Cameron was leading the Sydney support team his enthusiasm for solving customer problems ensured that the whole team was focused and highly responsive. He was my go-to person when we needed someone in support who could think outside of the box to research a problem or create a custom script. I would highly recommend Cameron for any position that requires an innovative and creative individual"
+			"blurb": "Cameron's ability to overcome difficult technical challenges is what made him a great asset in the support team. While Cameron was leading the Sydney support team his enthusiasm for solving customer problems ensured that the whole team was focused and highly responsive. He was my go-to person when we needed someone in support who could think outside of the box to research a problem or create a custom script. I would highly recommend Cameron for any position that requires an innovative and creative individual",
+			"featured": true,
+			"excerpt": "He was my go-to person when we needed someone in support who could think outside of the box to research a problem or create a custom script."
 		},
 		{
 			"author": {
@@ -505,7 +509,9 @@
 				"organisation": "Nuix",
 				"date": "2019-02-08"
 			},
-			"blurb": "Thank you, Thank you, Thankyou… Words cannot describe the appreciation I have for the support team. Over the last few months, Cameron and the rest of the team were amazing in prioritising key customers to ensure we won key pieces of business, always keeping the sales team up to date and helping to resolve issues efficiently. With a smile on his face and being there when you need him… Thank you for going above and beyond"
+			"blurb": "Thank you, Thank you, Thankyou… Words cannot describe the appreciation I have for the support team. Over the last few months, Cameron and the rest of the team were amazing in prioritising key customers to ensure we won key pieces of business, always keeping the sales team up to date and helping to resolve issues efficiently. With a smile on his face and being there when you need him… Thank you for going above and beyond",
+			"featured": true,
+			"excerpt": "Cameron and the rest of the team were amazing in prioritising key customers to ensure we won key pieces of business, always keeping the sales team up to date and helping to resolve issues efficiently."
 		},
 		{
 			"author": {
@@ -652,10 +658,6 @@
 		"title": "Proof points",
 		"items": [
 			{
-				"title": "Innovation: ~3 days to ~20 minutes",
-				"text": "Built a container-based approach from existing build artefacts that cut complex legacy deployments from about three consultant days to about 20 minutes, then extended it to Kubernetes, turning a manual install into a repeatable platform capability."
-			},
-			{
 				"title": "Strategic influence: Nuix Neo",
 				"text": "Took the deployment work to XLR8 roadshows and into the conversations that shaped the first version of Nuix Neo."
 			},
@@ -712,6 +714,43 @@
 					"Architecture reviews",
 					"Public speaking"
 				]
+			}
+		]
+	},
+	"featured": {
+		"kicker": "Signature result",
+		"title": "From three consultant days to twenty minutes",
+		"text": "Complex legacy deployments routinely took experienced consultants about three days. I built a container-based approach from the existing build artefacts and cut that to about twenty minutes, then extended it to Kubernetes pods and basic scaling, turning a manual install into a repeatable platform capability.",
+		"before": {
+			"label": "Manual deployment",
+			"display": "~3 days",
+			"value": 1440
+		},
+		"after": {
+			"label": "Containerised",
+			"display": "~20 min",
+			"value": 20
+		},
+		"footnote": "Presented at Nuix XLR8 roadshows and part of the conversations that shaped the first version of Nuix Neo. Bars are an illustrative scale."
+	},
+	"talks": {
+		"title": "On stage",
+		"items": [
+			{
+				"title": "Nuix XLR8 roadshows",
+				"text": "Presenter and technical demonstrator across the region"
+			},
+			{
+				"title": "Sydney Opera House",
+				"text": "Customer and industry presentation"
+			},
+			{
+				"title": "Disney Asia-Pacific IT conference",
+				"text": "Presented on automation and operational efficiency, Hong Kong, 2014"
+			},
+			{
+				"title": "Nuix new-staff orientation",
+				"text": "Annual contributor and presenter"
 			}
 		]
 	}
