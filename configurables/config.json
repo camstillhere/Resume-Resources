@@ -2,8 +2,8 @@
 	"bio": {
 		"first": "Cameron",
 		"last": "Stiller",
-		"title": "Technical Solutions Architect",
-		"tagline": "Turning messy data and hard technical problems into working solutions.",
+		"title": "Regional Field CTO · Principal Technical Architect, JAPAC",
+		"tagline": "I turn deep platform architecture into decisions executives can act on, then build the proof.",
 		"image": "https://raw.githubusercontent.com/camstillhere/Resume-Resources/main/img/Cameron%20Stiller.jpg",
 		"contact": {
 			"email": [
@@ -38,15 +38,32 @@
 					"title": "Nuix Blog - Getting started with Scripting, part 2"
 				}
 			]
-		}
+		},
+		"location": "Sydney, Australia",
+		"highlights": [
+			{
+				"value": "11+",
+				"label": "Years at Nuix, from Support to the Office of the Field CTO"
+			},
+			{
+				"value": "20 min",
+				"label": "Deployment time, down from ~3 days, via containerisation"
+			},
+			{
+				"value": "JAPAC",
+				"label": "Sole technical lead in the global Office of the Field CTO"
+			},
+			{
+				"value": "6",
+				"label": "Nuix certifications, including 3 at Master level"
+			}
+		]
 	},
 	"overview": {
 		"title": "Career Summary",
 		"blurb": [
-			"A Technical Solutions Architect with over {{years}} years of experience in the technology industry, spanning IT operations, support leadership, innovation engineering and pre/post-sales architecture. Whilst at Nuix Cameron has been recognised for being proficient in providing detailed and proactive solutions to clients, many of which are eDiscovery, law, or government contacts.",
-			"With his background in technical operations, he has a large experience base of networking, infrastructure, and automation to call upon when scripting projects or complex environments are required to replicate a client issue or to create sample data. With access to these skills, he constantly goes above and beyond, whether it is helping a customer out of hours, working on a new custom solution to solve a problem, or helping other team members out in support, solutions, sales or development.",
-			"Across his years working with technology Cameron has been supporting a range of industries from eDiscovery, media, advertising, manufacturing, development, theatrical, production and sports across the region in which they operate as well as developing excellent time management skills and the ability to work well under pressure.",
-			"In his time at Nuix he has been recognised as an expert in many areas and products to the extent that he was volunteered to create the new Developer training content which is now being used for customers. This represents three months work with highly detailed and diverse examples."
+			"Enterprise technology leader, customer advocate, technical innovator and executive communicator, with {{years}} years of experience earning customer trust, understanding enterprise challenges and turning technical opportunities into business outcomes.",
+			"At Nuix since 2015 and now the Regional Field CTO / Principal Technical Architect for JAPAC, partnering with strategic customers, executives, Sales and Engineering. I pair boardroom communication with hands-on depth in Nuix automation, Kubernetes, graph data and MCP-based AI agents."
 		]
 	},
 	"experiences": [
@@ -126,42 +143,58 @@
 			"organisation": "Nuix",
 			"positions": [
 				{
-					"title": "Technical Solutions Architect (GRC)",
+					"title": "Technical Solutions Architect, Expert Services (JAPAC)",
 					"span": {
-						"start": "2021-12-06",
+						"start": "2026-08-01",
 						"end": null
 					},
 					"blurb": [
-						"Reporting to the EVP, Governance, Risk & Compliance this role will work closely with the Nuix sales team in both a pre and post sales technical capacity to provide custom solutions to help customers with their needs and requirements. You will also work alongside product management to help share your knowledge and expertise with development to help shape our solutions.",
-						"The role will proactively assess the business and technical needs of our current and prospective customers, decipher Nuix’s solution fit and possess the skills to articulate and demonstrate the compelling value of the Nuix platform. This role will work with Solutions Consultants for all technical activities involved in the sales cycle and requires a proactive can-do attitude, ability to create and deliver compelling presentations and works well both independently and in conjunction with other teammates and departments"
+						"Functioning as Regional Field CTO / Principal Technical Architect, JAPAC."
 					],
-					"responsibilities": [
-						"Working with the sales team on pre/post sales technical activities relating to new and existing clients",
-						"Play a key role in identifying and pursuing leads, converting the leads to opportunities, planning, owning, and executing a technical win",
-						"Build appropriate demonstration environments and help Solution Consultants with demonstrations, whilst also being required to conduct demonstrations yourself.",
-						"Evaluate the validity of Nuix’s success to deliver customer needs and requirements",
-						"Building productive long-lasting customer relationships",
-						"Establish strong credibility with new and existing clients as the trusted GRC architect and able to remain confident in technically challenging discussions",
-						"Position, demonstrate, conduct, own and drive proof of value/concepts, own technical needs and assist in driving opportunities to closure",
-						"Research competition and be able to develop an understanding of the applicability of the Nuix offering to business use case scenarios",
-						"Build and own collateral (presentations, templates, and related documents) pertinent to the success of proof of value/concepts and pre-sales activities",
-						"Learn, master and keep improving upon your technical competence across the comprehensive Nuix offering",
-						"Responsible for successful post-sales implementation, through effective coordination with Internal teams, stakeholders and partners",
-						"Responsible for the creation and validation of services quotes, scope of works, and any other technical information or drawings necessary to close new opportunities and solidify opportunities",
-						"Conduct solution demonstrations for prospective clients: onsite, at industry specific events, or via teleconference",
-						"Educate existing and prospective clients on Nuix offerings and solutions. Help develop new business opportunities with existing clients when needed.",
-						"Take ownership of overall client satisfaction, maximising renewal and retention rates",
-						"Learn and maintain expert knowledge of Nuix product stack and workflows",
-						"Generate presentations, project plans, and other technical and workflow summary documentation as needed",
-						"Bridge the gap between technical and non-technical stakeholders. Be the catalyst to mesh business and technical requirements into actionable outcomes"
+					"responsibilities": [],
+					"achievements": [
+						"Sole technical resource for the JAPAC region embedded in the global Office of the Field CTO, reporting directly to the Global Field CTO.",
+						"Lead technical engagement with strategic enterprise accounts across Asia-Pacific: system blueprints, architecture reviews and executive advisory sessions supporting new and expanding customers.",
+						"Translate complex platform architecture (binary ingestion, metadata extraction, multi-tenant data structures) into executive-ready explanations of commercial value and ROI.",
+						"Design reusable automation playbooks and platform enablement material to scale partner and direct channels across the region."
+					]
+				},
+				{
+					"title": "Technical Solutions Architect, Ventures",
+					"span": {
+						"start": "2023-12-01",
+						"end": "2026-08-01"
+					},
+					"blurb": [
+						"Office of the Global Field CTO."
 					],
-					"achievements": []
+					"responsibilities": [],
+					"achievements": [
+						"Core architectural contributor to the design, custom scripting ecosystem and regional rollout of Nuix Neo, modernising legacy engine capabilities into a streamlined, automated SaaS environment.",
+						"Fed real-world customer constraints and field-built prototypes directly into Product Management and Engineering to guide long-term platform direction.",
+						"Built AI-assisted investigation tooling: MCP servers exposing Nuix and investigation data to AI agents, multi-agent orchestration (CrewAI) and Neo4j graph models for entity resolution and relationship analysis."
+					]
+				},
+				{
+					"title": "Technical Solutions Architect, Governance, Risk & Compliance",
+					"span": {
+						"start": "2021-12-01",
+						"end": "2023-12-01"
+					},
+					"blurb": [
+						"Reporting to the EVP, Governance, Risk & Compliance."
+					],
+					"responsibilities": [],
+					"achievements": [
+						"Pre- and post-sales technical lead alongside Sales, designing custom solutions for customers with complex data compliance requirements.",
+						"Assessed technical fit for current and prospective customers and demonstrated platform value to technical and executive audiences."
+					]
 				},
 				{
 					"title": "Senior Innovation Engineer/Integration and Development Partner Liaison",
 					"span": {
 						"start": "2021-06-01",
-						"end": "2021-12-05"
+						"end": "2021-12-01"
 					},
 					"blurb": [
 						"Recognising his ongoing contributions Cameron was promoted to Senior Innovation Engineer."
@@ -193,7 +226,7 @@
 					]
 				},
 				{
-					"title": "Technical Services Engineer Manager",
+					"title": "Technical Services Manager, APAC",
 					"span": {
 						"start": "2018-01-01",
 						"end": "2019-11-01"
@@ -333,6 +366,33 @@
 					"blurb": [
 						"Nuix Hack It and Track It is a course designed for penetration testers and forensic investigators. Experts from Nuix’s Cyber Threat Analysis Team will cover cutting-edge techniques for compromising a target and then forensically investigating that breach."
 					]
+				},
+				{
+					"qualification": "Certificate",
+					"title": "Certified Examiner",
+					"span": {
+						"start": "2017-01-01",
+						"end": "2017-01-01"
+					},
+					"blurb": []
+				},
+				{
+					"qualification": "Certificate",
+					"title": "eDiscovery Specialist",
+					"span": {
+						"start": "2016-01-01",
+						"end": "2016-01-01"
+					},
+					"blurb": []
+				},
+				{
+					"qualification": "Certificate",
+					"title": "Elastic Core Operations",
+					"span": {
+						"start": "2016-01-01",
+						"end": "2016-01-01"
+					},
+					"blurb": []
 				}
 			]
 		},
@@ -580,5 +640,83 @@
 			"link": "https://www.ddls.com.au/",
 			"icon": "https://raw.githubusercontent.com/camstillhere/Resume-Resources/main/img/ddls.png"
 		}
+	},
+	"principles": {
+		"title": "How I work",
+		"items": [
+			"Listen before proposing.",
+			"Be honest, even when it’s uncomfortable.",
+			"Never promise what I can’t deliver.",
+			"Don’t replace technology just to sell something.",
+			"Measure outcomes, not activity.",
+			"Build relationships that last."
+		]
+	},
+	"proofPoints": {
+		"title": "Proof points",
+		"items": [
+			{
+				"title": "Innovation: ~3 days to ~20 minutes",
+				"text": "Built a container-based approach from existing build artefacts that cut complex legacy deployments from about three consultant days to about 20 minutes, then extended it to Kubernetes, turning a manual install into a repeatable platform capability."
+			},
+			{
+				"title": "Strategic influence: Nuix Neo",
+				"text": "Took the deployment work to XLR8 roadshows and into the conversations that shaped the first version of Nuix Neo."
+			},
+			{
+				"title": "Customer relationships",
+				"text": "Trusted technical advisor to banks, law enforcement, advisory firms and complex enterprise customers; listens first, finds the real problem and builds relationships that outlast the deal."
+			},
+			{
+				"title": "Executive and industry presence",
+				"text": "Presenter at Nuix XLR8 roadshows across the region and at the Sydney Opera House, representing Nuix technology to customers and industry."
+			},
+			{
+				"title": "Customer advocacy and sustainable ownership",
+				"text": "Turned an underused customer community into an active self-service resource by drawing in Support, Product and Engineering; likewise turned field knowledge on engine tuning into a reference later adopted into the product as Switch Advisor in NuixQ (Amazon Quick)."
+			}
+		]
+	},
+	"skills": {
+		"title": "Technical depth",
+		"groups": [
+			{
+				"name": "Platform and automation",
+				"items": [
+					"Nuix Neo",
+					"Nuix scripting and automation",
+					"Ruby",
+					"Python",
+					"Deployment automation"
+				]
+			},
+			{
+				"name": "Cloud and containers",
+				"items": [
+					"Docker",
+					"Kubernetes",
+					"AWS",
+					"Microsoft Azure"
+				]
+			},
+			{
+				"name": "AI and graph data",
+				"items": [
+					"MCP servers",
+					"Multi-agent orchestration (CrewAI)",
+					"Neo4j",
+					"Entity resolution"
+				]
+			},
+			{
+				"name": "Leadership",
+				"items": [
+					"Executive advisory",
+					"Pre- and post-sales",
+					"Architecture reviews",
+					"Public speaking"
+				]
+			}
+		]
 	}
 }
