@@ -380,15 +380,6 @@
 						"end": "2016-01-01"
 					},
 					"blurb": []
-				},
-				{
-					"qualification": "Certificate",
-					"title": "Elastic Core Operations",
-					"span": {
-						"start": "2016-01-01",
-						"end": "2016-01-01"
-					},
-					"blurb": []
 				}
 			]
 		},
@@ -466,6 +457,20 @@
 						"The Foundation Level is the entry level qualification which offers candidates a general awareness of the key elements, concepts and terminology used in the ITIL Service Lifecycle, including the linkages between Lifecycle stages, the processes used and their contribution to Service Management practices.",
 						"http://www.itil-officialsite.com"
 					]
+				}
+			]
+		},
+		{
+			"organisation": "Elastic",
+			"certifications": [
+				{
+					"qualification": "Certificate",
+					"title": "Elastic Core Operations",
+					"span": {
+						"start": "2016-01-01",
+						"end": "2016-01-01"
+					},
+					"blurb": []
 				}
 			]
 		}
@@ -641,6 +646,13 @@
 			],
 			"link": "https://www.ddls.com.au/",
 			"icon": "https://raw.githubusercontent.com/camstillhere/Resume-Resources/main/img/ddls.png"
+		},
+		"Elastic": {
+			"blurb": [
+				"Elastic is the company behind Elasticsearch, the search and analytics engine."
+			],
+			"link": "https://www.elastic.co/",
+			"icon": null
 		}
 	},
 	"principles": {
