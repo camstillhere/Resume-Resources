@@ -1,8 +1,9 @@
 {
 	"bio": {
-		"first": "cameron",
-		"last": "stiller",
+		"first": "Cameron",
+		"last": "Stiller",
 		"title": "Technical Solutions Architect",
+		"tagline": "Turning messy data and hard technical problems into working solutions.",
 		"image": "https://raw.githubusercontent.com/camstillhere/Resume-Resources/main/img/Cameron%20Stiller.jpg",
 		"contact": {
 			"email": [
@@ -17,12 +18,6 @@
 					"title": "linkedin.com/in/cameronstiller/"
 				}
 			],
-			"phone": [
-				{
-					"content": "04 0555 2385",
-					"title": "04 0555 2385"
-				}
-			],
 			"github": [
 				{
 					"content": "https://github.com/camstillhere",
@@ -32,7 +27,7 @@
 			"website": [
 				{
 					"content": "https://camstillhere.github.io/",
-					"title": "https://camstillhere.github.io/"
+					"title": "camstillhere.github.io"
 				},
 				{
 					"content": "https://www.nuix.com/blog/getting-started-scripting-nuix-engine-part-1",
@@ -48,8 +43,8 @@
 	"overview": {
 		"title": "Career Summary",
 		"blurb": [
-			"A highly skilled Innovation Engineer with over fifteen years experience working in the technology industry. Whilst at Nuix Cameron has been recognized for being proficient in providing detailed and proactive solutions to clients, many of which are eDiscovery, law, or government contacts.",
-			"With his background in technical operations, he has a large experience base of networking, infrastructure,and automation to call upon when scripting projects or complex environments are required to replicate a client issue or to create sample data. With access to these skills, he constantly goes above and beyond, whether it is helping a customer out of hours, working on a new custom solution to solve a problem, or helping other team members out in support, solutions, sales or development.",
+			"A Technical Solutions Architect with over {{years}} years of experience in the technology industry, spanning IT operations, support leadership, innovation engineering and pre/post-sales architecture. Whilst at Nuix Cameron has been recognised for being proficient in providing detailed and proactive solutions to clients, many of which are eDiscovery, law, or government contacts.",
+			"With his background in technical operations, he has a large experience base of networking, infrastructure, and automation to call upon when scripting projects or complex environments are required to replicate a client issue or to create sample data. With access to these skills, he constantly goes above and beyond, whether it is helping a customer out of hours, working on a new custom solution to solve a problem, or helping other team members out in support, solutions, sales or development.",
 			"Across his years working with technology Cameron has been supporting a range of industries from eDiscovery, media, advertising, manufacturing, development, theatrical, production and sports across the region in which they operate as well as developing excellent time management skills and the ability to work well under pressure.",
 			"In his time at Nuix he has been recognised as an expert in many areas and products to the extent that he was volunteered to create the new Developer training content which is now being used for customers. This represents three months work with highly detailed and diverse examples."
 		]
@@ -142,7 +137,7 @@
 					],
 					"responsibilities": [
 						"Working with the sales team on pre/post sales technical activities relating to new and existing clients",
-						"Play a key role in identifying and pursuing leads, converting the leads to opportunities,planning, owning, and executing a technical win",
+						"Play a key role in identifying and pursuing leads, converting the leads to opportunities, planning, owning, and executing a technical win",
 						"Build appropriate demonstration environments and help Solution Consultants with demonstrations, whilst also being required to conduct demonstrations yourself.",
 						"Evaluate the validity of Nuix’s success to deliver customer needs and requirements",
 						"Building productive long-lasting customer relationships",
@@ -163,7 +158,7 @@
 					"achievements": []
 				},
 				{
-					"title": "Senior Innovation Engineer/Integration and Development Partner Liason",
+					"title": "Senior Innovation Engineer/Integration and Development Partner Liaison",
 					"span": {
 						"start": "2021-06-01",
 						"end": "2021-12-05"
@@ -175,7 +170,7 @@
 					"achievements": []
 				},
 				{
-					"title": "Innovation Engineer/Integration and Development Partner Liason",
+					"title": "Innovation Engineer/Integration and Development Partner Liaison",
 					"span": {
 						"start": "2019-11-01",
 						"end": "2021-06-01"
@@ -387,7 +382,7 @@
 					},
 					"blurb": [
 						"This course is designed to look into and address general management and client interactions. Some of the topics include support, operations, safety and organisation techniques.",
-						"This was done as part of a traineeship, including assigments and assessments"
+						"This was done as part of a traineeship, including assignments and assessments"
 					]
 				}
 			]
@@ -441,7 +436,7 @@
 		{
 			"author": {
 				"name": "Dave Graham",
-				"position": "Strategic Account Directory",
+				"position": "Strategic Account Director",
 				"organisation": "Nuix",
 				"date": "2017-07-26"
 			},
@@ -517,7 +512,7 @@
 				"organisation": "Computer Troubleshooters",
 				"date": "2009-04-01"
 			},
-			"blurb": "Cameron started with my business as a trainee & very quickly moved to a position of highly valued part time employee. His skills in the IT/computer feilds are far beyond his age & I have no problem recomending him for any position in the IT industry. My only regrets is I am a small business that can't offer Cameron the challanges he needs."
+			"blurb": "Cameron started with my business as a trainee & very quickly moved to a position of highly valued part time employee. His skills in the IT/computer fields are far beyond his age & I have no problem recommending him for any position in the IT industry. My only regrets is I am a small business that can't offer Cameron the challenges he needs."
 		}
 	],
 	"organisations": {
@@ -568,21 +563,21 @@
 			"blurb": [
 				"Australian Careers Business College (ACBC) combines training in the classroom and hands on work experience. We train in 8 highly demanded courses specialising in educating and preparing students for rewarding futures."
 			],
-			"link": "https://www.westernsydney.edu.au/",
+			"link": "https://www.acbc.edu.au/",
 			"icon": "https://raw.githubusercontent.com/camstillhere/Resume-Resources/main/img/acbc.jpg"
 		},
 		"TAFE": {
 			"blurb": [
 				"Commissioner of Vocational Training (Apprenticeship and Traineeship Act, 2001)"
 			],
-			"link": "https://www.westernsydney.edu.au/",
+			"link": "https://www.tafensw.edu.au/",
 			"icon": "https://raw.githubusercontent.com/camstillhere/Resume-Resources/main/img/tafe.jpg"
 		},
 		"Dimension Data Learning Solutions": {
 			"blurb": [
 				"DDLS - Leading Corporate Training And Certification Provider With Over 600 Courses. Awarded By The World's leading Vendors As Preferred Training Partner. Gold Microsoft Partner. Train With The Best. #1 Cybersecurity Training. 30 Years Experience"
 			],
-			"link": "https://www.westernsydney.edu.au/https://www.ddls.com.au/",
+			"link": "https://www.ddls.com.au/",
 			"icon": "https://raw.githubusercontent.com/camstillhere/Resume-Resources/main/img/ddls.png"
 		}
 	}
